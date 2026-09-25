@@ -1,0 +1,22 @@
+Claims Processing Guidelines
+
+First Notice of Loss:
+The claims team should verify the policy number and establish whether the policy
+was active on the date of loss.
+
+Initial Assessment:
+The claims officer should collect incident details, identify the type of damage,
+check applicable coverage, and determine whether additional investigation is
+required.
+
+Investigation:
+Potential fraud indicators, inconsistent incident descriptions, suspicious
+documentation, or unusual claim patterns should be escalated for investigation.
+
+Settlement:
+A claim should only proceed to settlement after coverage validation, document
+verification, assessment of the loss, and required approvals.
+
+Escalation:
+Claims requiring investigation or exceeding the applicable authority threshold
+should be escalated to the designated claims authority.
